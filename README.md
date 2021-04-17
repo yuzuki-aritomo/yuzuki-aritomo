@@ -1,12 +1,11 @@
-#Yuzuki Aritomo
+# Yuzuki Aritomo
 ### Hi there 👋
-
 
 ![](https://komarev.com/ghpvc/?username=yuzuki-aritomo)
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzuki-aritomo&show_icons=true&theme=dracula)
-
+-->
 
 [![](https://raw.githubusercontent.com/yuzuki-aritomo/yuzuki-aritomo/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yuzuki-aritomo/yuzuki-aritomo/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
